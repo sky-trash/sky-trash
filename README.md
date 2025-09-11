@@ -58,5 +58,5 @@
 
 *   **Email:** [sky118trash@gmail.com](mailto:sky118trash@gmail.com)
 *   **Telegram:** [@yrappobeda](https://t.me/yrappobeda)
-*   **Резюме:** [Посмотреть резюме](https://github.com/sky-trash/sky-trash/blob/main/Резюме.docx) (скорее всего, лучше размести ссылку на LinkedIn или HH, если есть)
+*   **Резюме:** [Посмотреть резюме](https://izhevsk.hh.ru/resume/56f0b17aff0f582ecd0039ed1f436651464e45) 
 *   **GitHub:** [https://github.com/sky-trash](https://github.com/sky-trash)
