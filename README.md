@@ -44,6 +44,7 @@
 | **My City** | Сервис для рекомендаций мест и мероприятий в городе | Vue 3, Firebase (Firestore, Hosting) | [Live Demo](https://borisoglebsk.netlify.app/) | [GitHub](https://github.com/sky-trash) |
 | **Bakery** | Учебный проект: система управления для пекарни (командный) | Laravel, MySQL, Blade | - | [GitHub](https://github.com/sky-trash/bakery) |
 | **NatNet** | Платформа для изучения сетевых технологий (стажировка) | HTML/CSS, JavaScript, Vue.js | [Live Demo](https://natnet.netlify.app/) | [GitHub](https://github.com/sky-trash/NatNet) |
+| **SaaSoft** | Создание списка учетных записей | HTML/CSS, TypeScript, Vue.js | [Live Demo](https://saasoft-project.netlify.app/) | [GitHub](https://github.com/sky-trash/SaaSoft) |
 
 ---
 
