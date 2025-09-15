@@ -69,7 +69,3 @@
 *   **Telegram:** [@yrappobeda](https://t.me/yrappobeda)
 *   **Резюме:** [Посмотреть резюме](https://izhevsk.hh.ru/resume/56f0b17aff0f582ecd0039ed1f436651464e45) 
 *   **GitHub:** [https://github.com/sky-trash](https://github.com/sky-trash)
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sky-trash&theme=dark)
