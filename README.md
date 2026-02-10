@@ -1,5 +1,5 @@
 ### 👋 Привет, я Евгений Матвеев 
-**Fullstack-разработчик (JavaScript/Vue.js | PHP/Laravel/FastAPI)**
+**Fullstack-разработчик (JavaScript/TypeScript/Vue.js | PHP/Laravel/FastAPI)**
 
 📍 Ижевск | Студент 4-го курса по специальности "Информационные системы и программирование"
 
