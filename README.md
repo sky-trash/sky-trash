@@ -62,8 +62,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yrappobeda)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ВАШ_ID)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ВАШ_САЙТ)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://matveev-studio.netlify.app/])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sky118trash@gmail.com)
-[![Resume](https://img.shields.io/badge/Резюме-hh.ru-red?style=for-the-badge&logo=readthedocs&logoColor=white)](https://izhevsk.hh.ru/resume/56f0b17aff0f582ecd0039ed1f436651464e45)
 
 </div>
